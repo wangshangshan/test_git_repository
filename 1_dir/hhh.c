@@ -10,6 +10,7 @@ int main(int argc, char *argv[])
 
 
 	printf("this is my test git repository");
+	printf("this is first modify");
 	return 0;
 }
 
